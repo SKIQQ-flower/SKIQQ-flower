@@ -1,5 +1,7 @@
-![Text](./skiqq.png)
-
+<div align="center">
+<img align="center" width="460" src="/skiqq.png">
+</div>
+<hr>
 <img align="left" width="260" height="260" src="/doguinho.jpeg">
 <div align="right">
 <div align="center">
